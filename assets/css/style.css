@@ -53,7 +53,7 @@ p {
 }
 /* the following pertains to the large central picture */
 .hero {
-  height: 800px;
+  height: 1000px;
   width: 100%;
   margin-bottom: 25px;
   background-size: cover;
